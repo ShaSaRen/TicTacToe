@@ -66,7 +66,7 @@ namespace Calculatrice
             // btnBotLeft
             // 
             this.btnBotLeft.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnBotLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBotLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBotLeft.Location = new System.Drawing.Point(3, 215);
             this.btnBotLeft.Name = "btnBotLeft";
             this.btnBotLeft.Size = new System.Drawing.Size(149, 100);
@@ -77,7 +77,7 @@ namespace Calculatrice
             // btnBot
             // 
             this.btnBot.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnBot.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBot.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBot.Location = new System.Drawing.Point(158, 215);
             this.btnBot.Name = "btnBot";
             this.btnBot.Size = new System.Drawing.Size(149, 100);
@@ -88,7 +88,7 @@ namespace Calculatrice
             // btnBotRight
             // 
             this.btnBotRight.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnBotRight.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBotRight.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnBotRight.Location = new System.Drawing.Point(313, 215);
             this.btnBotRight.Name = "btnBotRight";
             this.btnBotRight.Size = new System.Drawing.Size(149, 100);
@@ -99,7 +99,7 @@ namespace Calculatrice
             // btnMidRight
             // 
             this.btnMidRight.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnMidRight.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMidRight.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMidRight.Location = new System.Drawing.Point(313, 109);
             this.btnMidRight.Name = "btnMidRight";
             this.btnMidRight.Size = new System.Drawing.Size(149, 100);
@@ -110,7 +110,7 @@ namespace Calculatrice
             // btnMid
             // 
             this.btnMid.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnMid.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMid.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMid.Location = new System.Drawing.Point(158, 109);
             this.btnMid.Name = "btnMid";
             this.btnMid.Size = new System.Drawing.Size(149, 100);
@@ -121,7 +121,7 @@ namespace Calculatrice
             // btnMidLeft
             // 
             this.btnMidLeft.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnMidLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMidLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMidLeft.Location = new System.Drawing.Point(3, 109);
             this.btnMidLeft.Name = "btnMidLeft";
             this.btnMidLeft.Size = new System.Drawing.Size(149, 100);
@@ -132,7 +132,7 @@ namespace Calculatrice
             // btnTopRight
             // 
             this.btnTopRight.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnTopRight.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTopRight.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTopRight.Location = new System.Drawing.Point(313, 3);
             this.btnTopRight.Name = "btnTopRight";
             this.btnTopRight.Size = new System.Drawing.Size(149, 100);
@@ -143,7 +143,7 @@ namespace Calculatrice
             // btnTop
             // 
             this.btnTop.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnTop.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTop.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTop.Location = new System.Drawing.Point(158, 3);
             this.btnTop.Name = "btnTop";
             this.btnTop.Size = new System.Drawing.Size(149, 100);
@@ -192,7 +192,7 @@ namespace Calculatrice
             // btnTopLeft
             // 
             this.btnTopLeft.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.btnTopLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 96F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTopLeft.Font = new System.Drawing.Font("Microsoft Sans Serif", 68.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTopLeft.Location = new System.Drawing.Point(3, 3);
             this.btnTopLeft.Name = "btnTopLeft";
             this.btnTopLeft.Size = new System.Drawing.Size(149, 100);
@@ -335,7 +335,7 @@ namespace Calculatrice
             this.ClientSize = new System.Drawing.Size(821, 518);
             this.Controls.Add(this.panel5);
             this.Name = "Calculatrice";
-            this.Text = "Calculatrice";
+            this.Text = "TicTacToe";
             this.panel1.ResumeLayout(false);
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();

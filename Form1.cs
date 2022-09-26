@@ -222,7 +222,7 @@ namespace Calculatrice
             scorePlayerO = 0;
             scorePlayerX = 0;
             enableDisableAllBtn(enable);
-            MessageBox.Show("You reset the scores !"); 
+            MessageBox.Show("You reset the scores !", "Tic Tac Toe - ShaSaRen"); 
         }
 
         private void btnExit_Click(object sender, EventArgs e)
